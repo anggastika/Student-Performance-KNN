@@ -1,0 +1,2 @@
+school,sex,age,address,famsize,Pstatus,Medu,Fedu,Mjob,Fjob,reason,guardian,traveltime,studytime,failures,schoolsup,famsup,paid,activities,nursery,higher,internet,romantic,famrel,freetime,goout,Dalc,Walc,health,absences
+MS,M,18,R,GT3,T,1,1,other,other,home,mother,4,3,1,no,no,no,no,yes,yes,yes,no,4,3,2,1,2,4,0
