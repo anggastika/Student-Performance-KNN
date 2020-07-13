@@ -1,5 +1,7 @@
 # Student-Performance-KNN
 
+Part 1 - https://github.com/nrepesh/Student-Performance-Classifier-OneR-algorithm
+
 K-Nearest Neighbors
 Created piepelines to scale data and test optimal k_neighbors and the distance metrics.
 -Nrepesh Joshi
